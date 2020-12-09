@@ -2,5 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>MergeBranch</groupId>
   <artifactId>MergeBranch</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version---->
+  <!---Directly into master by lead>
 </project>
