@@ -4,4 +4,6 @@
   <artifactId>MergeBranch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!---Commit into New branch by Team member 1->
+  <version>0.0.1-SNAPSHOT</version---->
+  <!---Directly into master by lead>
 </project>
